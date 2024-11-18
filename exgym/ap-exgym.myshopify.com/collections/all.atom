@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ap-exgym.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ap-exgym.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ap-exgym.myshopify.com/collections/all.atom"/>
+  <title>ap exgym</title>
+  <updated>2017-02-07T22:24:00-05:00</updated>
+  <author>
+    <name>ap exgym</name>
+  </author>
+  <entry>
+    <id>https://ap-exgym.myshopify.com/products/10061933834</id>
+    <published>2017-02-07T22:24:00-05:00</published>
+    <updated>2017-02-07T22:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-exgym.myshopify.com/products/gestas-lorem-commodo-libero"/>
+    <title>Bodymax T60HR</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1766/5811/products/printed-summer-dress_c2519f6b-6f04-4d1d-ba9a-08676eca9bdb.jpg?v=1486525510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            316.00 - 396.00
+            <a href="https://ap-exgym.myshopify.com/products/gestas-lorem-commodo-libero">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>[shortdesc] he brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.[/shortdesc]</p>
+<p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ap_color_Red</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>color_test</s:tag>
+    <s:tag>dealday_2018-08-20T00:00:00</s:tag>
+    <s:tag>en_color_Multi</s:tag>
+    <s:tag>en_color_Red</s:tag>
+    <s:tag>en_color_White</s:tag>
+    <s:tag>en_price_$300_-_$400</s:tag>
+    <s:tag>en_size_M</s:tag>
+    <s:tag>en_size_N</s:tag>
+    <s:tag>en_type_Overcoat</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933834</id>
+      <title>M / red grid</title>
+      <s:price currency="USD">346.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933834</id>
+      <title>M / blue</title>
+      <s:price currency="USD">336.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933834</id>
+      <title>M / green</title>
+      <s:price currency="USD">316.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933834</id>
+      <title>M / blue grid</title>
+      <s:price currency="USD">376.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933834</id>
+      <title>N / red grid</title>
+      <s:price currency="USD">396.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933834</id>
+      <title>N / blue</title>
+      <s:price currency="USD">396.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933834</id>
+      <title>N / green</title>
+      <s:price currency="USD">386.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933834</id>
+      <title>N / blue grid</title>
+      <s:price currency="USD">366.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-exgym.myshopify.com/products/10061933450</id>
+    <published>2017-02-07T22:24:00-05:00</published>
+    <updated>2017-02-07T22:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-exgym.myshopify.com/products/disse-turpis-laoreet"/>
+    <title>Bodymax CF380</title>
+    <s:type>Dress</s:type>
+    <s:vendor>Jcrew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1766/5811/products/bodymax-cf380.jpg?v=1489979363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jcrew<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            89.00 - 99.00
+            <a href="https://ap-exgym.myshopify.com/products/disse-turpis-laoreet">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>[shortdesc] he brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.[/shortdesc]</p>
+<p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p>
+<p><span>[youtube width="600" height="350" video="aE7-KZVXvJs"]</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ap_color_Gray</s:tag>
+    <s:tag>color_test</s:tag>
+    <s:tag>en_color_Multi</s:tag>
+    <s:tag>en_color_Red</s:tag>
+    <s:tag>en_color_White</s:tag>
+    <s:tag>en_price_$0_-_$100</s:tag>
+    <s:tag>en_size_M</s:tag>
+    <s:tag>en_size_N</s:tag>
+    <s:tag>en_size_S</s:tag>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933450</id>
+      <title>M / green</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933450</id>
+      <title>M / blue</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933450</id>
+      <title>M / red</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933450</id>
+      <title>N / green</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933450</id>
+      <title>N / blue</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933450</id>
+      <title>N / red</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-exgym.myshopify.com/products/10061933130</id>
+    <published>2017-02-07T22:24:00-05:00</published>
+    <updated>2017-02-07T22:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-exgym.myshopify.com/products/urpis-laoreet-egestas"/>
+    <title>Bodymax CF470</title>
+    <s:type></s:type>
+    <s:vendor>ap conosin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1766/5811/products/printed-summer-dress_62cc2de2-3086-4a87-a599-7062f0914b84.jpg?v=1486526307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ap conosin<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            311.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>[shortdesc] he brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.[/shortdesc]</p>
+<p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ap_type_Shoes</s:tag>
+    <s:tag>color_test</s:tag>
+    <s:tag>en_color_Multi</s:tag>
+    <s:tag>en_color_Red</s:tag>
+    <s:tag>en_color_White</s:tag>
+    <s:tag>en_price_$300_-_$400</s:tag>
+    <s:tag>en_size_M</s:tag>
+    <s:tag>en_size_N</s:tag>
+    <s:tag>en_size_S</s:tag>
+    <s:tag>en_size_XL</s:tag>
+    <s:tag>en_type_Clothes</s:tag>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933130</id>
+      <title>M / red</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933130</id>
+      <title>M / green</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933130</id>
+      <title>M / blue</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933130</id>
+      <title>N / red</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933130</id>
+      <title>N / green</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061933130</id>
+      <title>N / blue</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-exgym.myshopify.com/products/10061932874</id>
+    <published>2017-02-07T22:24:00-05:00</published>
+    <updated>2017-02-07T22:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-exgym.myshopify.com/products/suspendisse-turpis-laoreet-egestas-1"/>
+    <title>Bodymax CF380</title>
+    <s:type></s:type>
+    <s:vendor>ap conosin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1766/5811/products/bodymax-cf380_0f7e8ba1-f9d9-4226-974a-30b72c120fcc.jpg?v=1489979310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ap conosin<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            311.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>[shortdesc] he brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.[/shortdesc]</p>
+<p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ap_type_Shoes</s:tag>
+    <s:tag>color_test</s:tag>
+    <s:tag>en_color_Multi</s:tag>
+    <s:tag>en_color_Red</s:tag>
+    <s:tag>en_color_White</s:tag>
+    <s:tag>en_price_$300_-_$400</s:tag>
+    <s:tag>en_size_M</s:tag>
+    <s:tag>en_size_N</s:tag>
+    <s:tag>en_size_S</s:tag>
+    <s:tag>en_size_XL</s:tag>
+    <s:tag>en_type_Clothes</s:tag>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932874</id>
+      <title>M / red</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932874</id>
+      <title>M / green</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932874</id>
+      <title>M / blue</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932874</id>
+      <title>N / red</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932874</id>
+      <title>N / green</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932874</id>
+      <title>N / blue</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-exgym.myshopify.com/products/10061932490</id>
+    <published>2017-02-07T22:24:00-05:00</published>
+    <updated>2017-02-07T22:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-exgym.myshopify.com/products/suspendisse-turpis-laoreet-egestas"/>
+    <title>Life Fitness F1</title>
+    <s:type></s:type>
+    <s:vendor>ap conosin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1766/5811/products/bodymax-cf380_2c56ce27-c8f1-436b-9d16-742f3f5f3dc8.jpg?v=1486525815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ap conosin<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            311.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>[shortdesc] he brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.[/shortdesc]</p>
+<p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ap_type_Shoes</s:tag>
+    <s:tag>color_test</s:tag>
+    <s:tag>dealday_2018-08-20T00:00:00</s:tag>
+    <s:tag>en_color_Multi</s:tag>
+    <s:tag>en_color_Red</s:tag>
+    <s:tag>en_color_White</s:tag>
+    <s:tag>en_price_$300_-_$400</s:tag>
+    <s:tag>en_size_M</s:tag>
+    <s:tag>en_size_N</s:tag>
+    <s:tag>en_size_S</s:tag>
+    <s:tag>en_size_XL</s:tag>
+    <s:tag>en_type_Clothes</s:tag>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932490</id>
+      <title>red</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932490</id>
+      <title>green</title>
+      <s:price currency="USD">311.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-exgym.myshopify.com/products/10061932170</id>
+    <published>2017-02-07T22:24:00-05:00</published>
+    <updated>2017-02-07T22:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-exgym.myshopify.com/products/girl-suspendisse-turpis-laoreet-egestas"/>
+    <title>Bodymax B15</title>
+    <s:type>Dress</s:type>
+    <s:vendor>Jcrew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1766/5811/products/printed-summer-dress_06b5cc9e-36a1-474c-876f-c7035e5dee6c.jpg?v=1486526048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jcrew<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            209.00 - 299.00
+            <a href="https://ap-exgym.myshopify.com/products/girl-suspendisse-turpis-laoreet-egestas">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>[shortdesc] he brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.[/shortdesc]</p>
+<p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ap_color_Gray</s:tag>
+    <s:tag>color_test</s:tag>
+    <s:tag>dealday_2018-08-20T00:00:00</s:tag>
+    <s:tag>en_color_Multi</s:tag>
+    <s:tag>en_color_Red</s:tag>
+    <s:tag>en_color_White</s:tag>
+    <s:tag>en_price_$200_-_$300</s:tag>
+    <s:tag>en_size_M</s:tag>
+    <s:tag>en_size_N</s:tag>
+    <s:tag>en_size_S</s:tag>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932170</id>
+      <title>M / green</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932170</id>
+      <title>M / blue</title>
+      <s:price currency="USD">209.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932170</id>
+      <title>M / red</title>
+      <s:price currency="USD">239.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932170</id>
+      <title>N / green</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932170</id>
+      <title>N / blue</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061932170</id>
+      <title>N / red</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-exgym.myshopify.com/products/10061931530</id>
+    <published>2017-02-07T22:24:00-05:00</published>
+    <updated>2017-02-07T22:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-exgym.myshopify.com/products/egestas-lorem-commodo-libero"/>
+    <title>Bodymax CF470</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1766/5811/products/printed-summer-dress.jpg?v=1486525364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            316.00 - 400.00
+            <a href="https://ap-exgym.myshopify.com/products/egestas-lorem-commodo-libero">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>[shortdesc] he brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.[/shortdesc]</p>
+<p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ap_color_Red</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>color_test</s:tag>
+    <s:tag>en_color_Multi</s:tag>
+    <s:tag>en_color_Red</s:tag>
+    <s:tag>en_color_White</s:tag>
+    <s:tag>en_price_$300_-_$400</s:tag>
+    <s:tag>en_size_M</s:tag>
+    <s:tag>en_size_N</s:tag>
+    <s:tag>en_type_Overcoat</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931530</id>
+      <title>M / red grid</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931530</id>
+      <title>M / blue</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931530</id>
+      <title>M / green</title>
+      <s:price currency="USD">316.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931530</id>
+      <title>M / blue grid</title>
+      <s:price currency="USD">376.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931530</id>
+      <title>N / red grid</title>
+      <s:price currency="USD">396.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931530</id>
+      <title>N / blue</title>
+      <s:price currency="USD">396.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931530</id>
+      <title>N / green</title>
+      <s:price currency="USD">386.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931530</id>
+      <title>N / blue grid</title>
+      <s:price currency="USD">366.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-exgym.myshopify.com/products/10061931210</id>
+    <published>2017-02-07T22:24:00-05:00</published>
+    <updated>2017-02-07T22:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-exgym.myshopify.com/products/donec-fringilla-sapien-sed"/>
+    <title>Bodymax CF800</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1766/5811/products/printed-dress.jpg?v=1486525267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            111.00 - 122.00
+            <a href="https://ap-exgym.myshopify.com/products/donec-fringilla-sapien-sed">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>[shortdesc] he brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.[/shortdesc]</p>
+<p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_test</s:tag>
+    <s:tag>dealday_2018-08-20T00:00:00</s:tag>
+    <s:tag>en_color_Multi</s:tag>
+    <s:tag>en_color_Navy_blue</s:tag>
+    <s:tag>en_color_Red</s:tag>
+    <s:tag>en_color_White</s:tag>
+    <s:tag>en_price_$100_-_$200</s:tag>
+    <s:tag>en_size_M</s:tag>
+    <s:tag>en_size_N</s:tag>
+    <s:tag>en_size_S</s:tag>
+    <s:tag>en_size_XL</s:tag>
+    <s:tag>en_type_Clothes</s:tag>
+    <s:tag>en_type_Overcoat</s:tag>
+    <s:tag>en_vender_Gucci</s:tag>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931210</id>
+      <title>M / red</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931210</id>
+      <title>M / blue</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931210</id>
+      <title>M / green</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931210</id>
+      <title>N / red</title>
+      <s:price currency="USD">122.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931210</id>
+      <title>N / blue</title>
+      <s:price currency="USD">121.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061931210</id>
+      <title>N / green</title>
+      <s:price currency="USD">111.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ap-exgym.myshopify.com/products/10061930506</id>
+    <published>2017-02-07T22:23:00-05:00</published>
+    <updated>2017-02-07T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ap-exgym.myshopify.com/products/dapper-st-mawes-silver-38mm"/>
+    <title>Bodymax Oxbridge</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1766/5811/products/blouse.jpg?v=1486524340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            200.00 - 300.00
+            <a href="https://ap-exgym.myshopify.com/products/dapper-st-mawes-silver-38mm">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>[shortdesc] he brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe.[/shortdesc]</p>
+<p>Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color_test</s:tag>
+    <s:tag>en_color_Multi</s:tag>
+    <s:tag>en_color_Red</s:tag>
+    <s:tag>en_color_White</s:tag>
+    <s:tag>en_price_$200_-_$300</s:tag>
+    <s:tag>en_size_M</s:tag>
+    <s:tag>en_size_N</s:tag>
+    <s:tag>en_size_S</s:tag>
+    <s:tag>en_size_XL</s:tag>
+    <s:tag>en_type_Clothes</s:tag>
+    <s:tag>en_type_Clothing</s:tag>
+    <s:tag>en_type_Shirt</s:tag>
+    <s:tag>en_vender_Nike</s:tag>
+    <s:tag>en_vendor_Nike</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061930506</id>
+      <title>M / yellow</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061930506</id>
+      <title>M / blue grid</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061930506</id>
+      <title>M / white line</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061930506</id>
+      <title>M / red</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061930506</id>
+      <title>N / yellow</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061930506</id>
+      <title>N / blue grid</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061930506</id>
+      <title>N / white line</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ap-exgym.myshopify.com/products/10061930506</id>
+      <title>N / red</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

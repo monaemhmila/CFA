@@ -1,0 +1,11 @@
+/* css for box multialnguage */
+.ap-multilang-box {
+    line-height: 46px;
+}
+.icon-language {
+  	background-position-y: 6px!important;
+    position: relative;
+}
+.list-lang li span{
+	line-height: 25px;
+}

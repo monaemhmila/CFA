@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ap-exgym.myshopify.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22TN11%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%2294381E96-f055-4459-b617-25f8965b1b52%22%7D
+ap-exgym.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+ap-exgym.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_country	Tunisia
+ap-exgym.myshopify.com	TRUE	/	FALSE	1999999999	preview_theme	1
+ap-exgym.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZMCLsonAAH_0FCTi6YHRdNwRDq4LivqPs6ggfRR3zCDxEJpIy71N51NhZiuFcFNg1kDiAI6aKgiBWA4iVBGrbp9OJPEPYm-UALRfqLbCUWH8kwvaNiH9P6akY-J:
+ap-exgym.myshopify.com	TRUE	/	FALSE	1999999999	localization	TN
+ap-exgym.myshopify.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+ap-exgym.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	50f75898-68c9-47c8-9ba6-7ab9a97a4ca8
+ap-exgym.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	ec67b828-d447-43f2-8967-b207a2dad58a
+ap-exgym.myshopify.com	TRUE	/	FALSE	1999999999	keep_alive	9dc3a42f-7ee0-42fb-a613-147292f12673
+ap-exgym.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
