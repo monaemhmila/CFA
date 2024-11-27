@@ -329,116 +329,130 @@ for (var attr in meta) {
   <div id="À propos">
     <div id="shopify-section-header" class="shopify-section">
       <style>
-     /* Ensure header height accommodates both logo and menu */
-#header {
-  height: auto; /* Let the header height adjust automatically */
+        /* Header Styling */
+        #header {
+          height: auto; /* Adjust height based on content */
+          display: flex;
+          flex-direction: column; /* Stack logo, title, and menu vertically */
+          align-items: center;
+          justify-content: center;
+          background: repeating-linear-gradient(
+            90deg,
+            #ffffff, #ffffff 40px,   /* White lines */
+            #d10e0e 40px, #d10e0e 80px  /* Red stripes */
+          ); /* White and red striped background */
+          color: #d10e0e; /* Red text color */
+          text-align: center;
+          padding: 8px 0; /* Reduced padding for a thinner header */
+        }
+      
+        /* Logo Styling */
+        #header_logo img {
+          height: 30px; /* Adjusted logo size to fit better */
+          width: auto;
+          margin-bottom: 4px; /* Reduced margin to avoid adding height */
+        }
+      
+        /* Title Styling */
+        .header-title {
+          font-family: "Arial Black", sans-serif;
+          font-size: 26px; /* Reduced font size */
+          text-transform: uppercase;
+          letter-spacing: 1.5px;
+          margin: 6px 0; /* Reduced margin */
+          color: #d10e0e; /* Red text */
+        }
+      
+        /* Subtitle Styling */
+        .header-subtitle {
+          font-family: "Arial", sans-serif;
+          font-size: 14px; /* Smaller font size */
+          font-weight: 400;
+          margin-top: 2px;
+          margin-bottom: 12px; /* Reduced margin */
+          color: #ffffff; /* White text */
+        }
+      
+        /* Navigation Menu Styling */
+        #apollo-top-menu {
+  background-color: white !important;  /* Force white background */
+  width: 100%;
   display: flex;
+  justify-content: center;
   align-items: center;
-  justify-content: space-between; /* Space out logo and menu */
-  background: repeating-linear-gradient(
-    90deg,
-    #d10e0e, #d10e0e 50px,
-    #ffffff 50px, #ffffff 100px
-  );
-  padding: 0 30px; /* Add padding for spacing */
+  padding: 0;
+  margin-top: 10px;
 }
-
-/* Adjust the logo size */
-#header_logo img {
-  height: 80px; /* Ensure logo size is appropriate */
-  width: auto; /* Maintain aspect ratio */
+        #apollo-top-menu .nav > li {
+          list-style: none;
+          display: inline-block;
+        }
+      
+        #apollo-top-menu .nav > li a {
+    font-family: "Arial", sans-serif;
+    font-size: 14px; /* Smaller font size for links */
+    color: #d10e0e; /* Red text color */
+    text-decoration: none;
+    padding: 6px 10px; /* Reduced padding for smaller buttons */
+    border: 2px solid #ffffff; /* White border */
+    background-color: white; /* White background */
+    transition: all 0.3s ease;
+  }
+      
+        /* Menu hover effect */
+        #apollo-top-menu .nav > li a:hover {
+    background-color: #d10e0e; /* Red background on hover */
+    color: white; /* White text color */
+    border: 2px solid #d10e0e; /* Red border on hover */
+    border-radius: 5px;
+  }
+      
+        /* Make #apollo-menu background white */
+        #apollo-menu {
+    background-color: white; /* Set background to white */
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  #apollo-top-menu img {
+    height: 100px; /* Make the logo smaller */
+    width: auto;
+    margin-right: 10px; /* Space between logo and menu items */
+  }
+  
+  #cavas_menu {
+  background-color: white !important;  /* Force white background */
+  width: 100%;
 }
-
-/* Prevent the menu from wrapping */
-#apollo-top-menu .nav {
-  display: flex;
-  flex-wrap: nowrap; /* Disable wrapping */
-  justify-content: flex-start; /* Align menu items in one line */
-}
-
-/* Ensure menu items are aligned properly */
-#apollo-top-menu .nav > li {
-  margin: 0 px; /* Add spacing between menu items */
-}
-
-/* Adjust container width if necessary */
-.header-container {
-  max-width: 1200px; /* Adjust as per your layout */
-  margin: 0 auto; /* Center the content */
-}
-
-    
       </style>
-    
-      <div data-section-id="header" data-section-type="header-section">
-        <header id="header" class="ap-header-template1">
-          <div class="header-container">
-            <div id="header-main">
-              <div class="container-main">
-                <div class="row-main">
-                  <div class="header-wrap topnav-flex">
-                    
-                    <div class="center-topnav">
-                      <!-- Top Menu -->
-                      <div class="header-top">
-                        <div id="header_logo" style="margin-right: 70px;">
-                          <h1 class="" itemscope itemtype="http://schema.org/Organization">
-                            <a href="index.html" itemprop="url">
-                              <img src="cdn/shop/files/testAsset 2.png" alt="ap exgym">
-                              <span class="hidden">ap exgym</span>
-                            </a>
-                          </h1>
-                        </div>
-                      </div>
-                      <div id="apollo-menu">
-                        <nav id="cavas_menu" class="apollo-megamenu">
-                          <div class="" role="navigation" >
-                            <div class="navbar-header">
-                              <button type="button" class="navbar-toggle btn-menu-canvas" data-toggle="offcanvas" data-target="#off-canvas-nav">
-                                <span class="sr-only">Toggle navigation</span>
-                                <span class="fa fa-bars"></span>
-                              </button>
-                            </div>
-                            <div id="apollo-top-menu" class="collapse navbar-collapse hidden-xs hidden-sm">
-                              <ul class="nav navbar-nav megamenu">
-                                <li class="parent active">
-                                  <a href="index.html" title="Home" target="_self">
-                                    <span class="menu-title">Home</span>
-                                  </a>
-                                </li>
-                                <li class="parent dropdown aligned-center">
-                                  <a class="dropdown-toggle has-category" data-toggle="dropdown" title="Équipe" target="_self">
-                                    <span class="menu-title">Équipe</span>
-                                  </a>
-                                </li>
-                                <li class="parent dropdown aligned-center">
-                                  <a class="dropdown-toggle has-category" data-toggle="dropdown" title="Actualité" target="_self">
-                                    <span class="menu-title">Actualité</span>
-                                  </a>
-                                </li>
-                                <li class="parent dropdown active">
-                                  <a class="dropdown-toggle has-category" data-toggle="dropdown" title="À propos" target="_self">
-                                    <span class="menu-title">À propos</span>
-                                  </a>
-                                </li>
-                                <li class="parent dropdown active">
-                                  <a class="dropdown-toggle has-category" data-toggle="dropdown" title="Contact" target="_self">
-                                    <span class="menu-title">Contact</span>
-                                  </a>
-                                </li>
-                              </ul>
-                            </div>
-                          </div>
-                        </nav>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
+      
+      <div id="header">
+        <!-- Logo -->
+       
+        <!-- Title -->
+        <!-- Navigation Menu -->
+        <div id="apollo-menu">
+          <h1 class="header-title">Carthage Football School</h1>
+
+          <nav id="cavas_menu" class="apollo-megamenu">
+
+            <div id="apollo-top-menu">
+              <img src="cdn/shop/files/testAsset 2.png" alt="Carthage Football School Logo">
+
+              <ul class="nav">
+                <li><a href="#equipe" title="Équipe">Équipe</a></li>
+                <li><a href="#actualite" title="Actualité">Actualité</a></li>
+                <li><a href="#apropos" title="À propos">À propos</a></li>
+                <li><a href="#contact" title="Contact">Contact</a></li>
+              </ul>
             </div>
-          </div>
-        </header>
+          </nav>
+        </div>
       </div>
+      
+      
+      
+      
     </div>
     
     
